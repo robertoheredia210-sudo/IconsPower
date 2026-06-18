@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="30"
    height="30"
@@ -14,15 +13,15 @@
   <g
      id="layer1"
      transform="translate(-0.2507906,-0.17026472)"
-     style="fill:#0000ff">
+     style="fill:#00FFFF">
     <circle
-       style="fill:#0000ff;stroke-width:0.264583"
+       style="fill:#00FFFF;stroke-width:0.264583"
        id="path1"
        cx="4.2195406"
        cy="4.1390147"
        r="3.96875" />
     <ellipse
-       style="fill:#0000ff;stroke-width:0.264583"
+       style="fill:#00FFFF;stroke-width:0.264583"
        id="path2"
        cx="4.976481"
        cy="5.1375322"
